@@ -1,6 +1,5 @@
 ### Hi, I’m Andrey 👋
 
-* I’m currently working on AI, Web, IT-Security
 * I’m currently learning IT-Security (Linux, Microsoft)
 * I’m looking to collaborate on IT (Linux, MySQL, MicrosoftAZure, Python, Machine Learning AI, CISCO, EVE-NG, Web-prog.) & Graphic-Design (CorelDraw, Illustrator, Photoshop, Gimp)
 * How to reach me: GitHub @andreymikhit or TG @andreim177
