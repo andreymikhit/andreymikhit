@@ -5,7 +5,7 @@
 * Hobbies: 🏐 ⚽ 🏊‍♂️ 🚴 🏓 🚗 📚
 * 🌍 I speak 🇩🇪, 🇷🇺, 🇺🇸
 
-#### Connect with me GitHub or Telegram:
+#### Connect with me:
 <div id="badges" align="center">
 <a href="https://github.com/andreymikhit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>&nbsp;&nbsp;
