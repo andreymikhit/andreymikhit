@@ -1,4 +1,4 @@
-### Hi, I’m Andrey @andreymikhit👋
+### Hi, I’m Andrey 👋
 
 * I’m currently working on AI, Web, IT-Security
 * I’m currently learning IT-Security (Linux, Microsoft)
