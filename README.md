@@ -51,7 +51,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymikhit&theme=cobalt&show_icons=true)</br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt)</br>
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
