@@ -53,7 +53,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact)</br>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreymikhit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
