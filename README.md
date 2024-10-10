@@ -19,6 +19,8 @@ https://devicon.dev/
 ---
 ### Languages and Tools:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt)</br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science)](https://git.io/typing-svg)
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
@@ -57,8 +59,6 @@ https://devicon.dev/
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymikhit&theme=cobalt&show_icons=true)</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt)</br>
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
