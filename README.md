@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegramm Badge"/></a>&nbsp;&nbsp;
 </div>
 
+<!-- https://github.com/devicons/devicon/tree/master/icons
+https://devicon.dev/
+-->
 ---
 ### Languages and Tools:
 
