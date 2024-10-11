@@ -64,7 +64,7 @@ https://devicon.dev/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymikhit&theme=cobalt&show_icons=true)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreymikhit)](https://github.com/andreymikhit?tab=repositorie)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreymikhit)
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
