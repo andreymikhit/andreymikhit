@@ -19,7 +19,7 @@ https://devicon.dev/
 ---
 #### Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt&langs_count=10)</br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science)](https://git.io/typing-svg)
 <p>
@@ -64,9 +64,11 @@ https://devicon.dev/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymikhit&theme=cobalt&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=donut&langs_count=8)
+
 
 <!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=donut&langs_count=8)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
