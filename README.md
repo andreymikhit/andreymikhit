@@ -5,7 +5,11 @@
 * Hobbies: 🏐 🏊‍♂️ 🚴 🏓 🚗 📚
 * 🌍 I speak 🇩🇪, 🇷🇺, 🇺🇸
 
-#### Connect with me:
+<!-- color=white  peng=false  pie	boolean  parameter=value & color=white & pie=false
+-->
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=andreymikhit)](https://github.com/andreymikhit)
+
+### Connect with me:
 <div id="badges" align="center">
 <a href="https://github.com/andreymikhit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>&nbsp;&nbsp;
