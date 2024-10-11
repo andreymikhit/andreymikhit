@@ -19,7 +19,7 @@ https://devicon.dev/
 ---
 #### Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt&langs_count=10)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt&langs_count=20)</br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science)](https://git.io/typing-svg)
 <p>
