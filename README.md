@@ -58,11 +58,11 @@ https://devicon.dev/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymikhit&theme=cobalt&show_icons=true)
-
 <!-- color=white  peng=false  pie	boolean  parameter=value & color=white & pie=false
 -->
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=andreymikhit)](https://github.com/andreymikhit)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymikhit&theme=cobalt&show_icons=true)
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
