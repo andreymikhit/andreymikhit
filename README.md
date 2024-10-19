@@ -11,11 +11,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>&nbsp;&nbsp;
 <a href="https://t.me/andreim177">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegramm Badge"/></a>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=andreymikhit&style=flat-square&color=blue" alt="counter"/>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 <!-- https://github.com/devicons/devicon/tree/master/icons
 https://devicon.dev/
