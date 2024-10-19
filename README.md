@@ -1,4 +1,4 @@
-### Hi, I’m Andrey 👋
+### Hi, I’m Andrey :man_technologist: 👋
 
 * I’m currently learning IT-Security (Linux, Microsoft)
 * I’m looking to collaborate on IT (Linux, MySQL, MicrosoftAZure, Python, Machine Learning AI, CISCO, EVE-NG, Web-prog.) & Graphic-Design (CorelDraw, Illustrator, Photoshop, Gimp)
@@ -12,6 +12,10 @@
 <a href="https://t.me/andreim177">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegramm Badge"/></a>&nbsp;&nbsp;
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!-- https://github.com/devicons/devicon/tree/master/icons
 https://devicon.dev/
