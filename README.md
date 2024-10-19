@@ -1,4 +1,4 @@
-### Hi, I’m Andrey :man_technologist: 👋
+### 👋 Hi, I’m Andrey :man_technologist:
 
 * I’m currently learning IT-Security (Linux, Microsoft)
 * I’m looking to collaborate on IT (Linux, MySQL, MicrosoftAZure, Python, Machine Learning AI, CISCO, EVE-NG, Web-prog.) & Graphic-Design (CorelDraw, Illustrator, Photoshop, Gimp)
