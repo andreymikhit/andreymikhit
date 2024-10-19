@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>&nbsp;&nbsp;
 <a href="https://t.me/andreim177">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegramm Badge"/></a>&nbsp;&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+<img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="Email Badge"/></a>&nbsp;&nbsp;
+<a href="mailto:andreymikhit@icloud.com">
 <img src="https://komarev.com/ghpvc/?username=andreymikhit&style=flat-square&color=blue" alt="counter"/>
 </div>
 
