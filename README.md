@@ -6,7 +6,7 @@ I’m looking to collaborate on:
  - [x] Exhibition management (consulting, project management, design, marketing)
  - [x] ... and other activities
 
-Hobbies: ⚽ 🏐 🏊‍♂️ 🚴 🏓 🚗 📚 :billiard: :photography:
+_Hobbies:_ ⚽ 🏐 🏊‍♂️ 🚴 🏓 🚗 📚 :billiard: :photography:
 
 🌍 I speak 🇩🇪, 🇷🇺, 🇺🇸
 
