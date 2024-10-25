@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Andrey :man_technologist:
 
-+ I’m looking to collaborate on:
-  1. IT (Linux, Machine Learning AI, MySQL, Python, Cloudcomputing, Microsoft-Azure, Cisco)
-  2. Graphic-design (CorelDraw, Illustrator, Photoshop, Gimp)
-  3. Exhibition management (consulting, project management, design, marketing)
-  4. ...
+* I’m looking to collaborate on:
+    1. IT (Linux, Machine Learning AI, MySQL, Python, Cloudcomputing, Microsoft-Azure, Cisco)
+    2. Graphic-design (CorelDraw, Illustrator, Photoshop, Gimp)
+    3. Exhibition management (consulting, project management, design, marketing)
+    4. ...
 * Hobbies: ⚽ 🏐 🏊‍♂️ 🚴 🏓 🚗 📚 :billiard: :photography:
 * 🌍 I speak 🇩🇪, 🇷🇺, 🇺🇸
 
