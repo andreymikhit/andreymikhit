@@ -74,8 +74,7 @@ https://devicon.dev/
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=andreymikhit)](https://github.com/andreymikhit?tab=repositories)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=andreymikhit&style=flat-square&color=blue" alt="counter"/>
-
+<img src="https://komarev.com/ghpvc/?username=andreymikhit&style=flat-square&color=blue" alt="counter"/> &nbsp; &nbsp; &nbsp; date of changes: _10-2024_. author: _andreymikhit_.
 
 <!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymikhit&theme=cobalt&show_icons=true)
