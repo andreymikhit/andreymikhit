@@ -19,7 +19,6 @@ _Hobbies:_ ⚽ 🏐 🏊‍♂️ 🚴 🏓 🎿 🏒 🚗 📚 :billiard :photo
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&amp;logo=telegram&amp;logoColor=white" alt="Telegramm Badge"></a>&nbsp;&nbsp;
 <a href="mailto:andreymikhit@icloud.com">
 <img src="https://img.shields.io/badge/@_send-email-blue?style=flat&logo=email&logoColor=white" alt="Email Badge"/></a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=andreymikhit&style=flat-square&color=blue" alt="counter"/>
 <a href="https://andreymikhit.github.com/contact-me-form.html">
 <img src="https://img.shields.io/badge/contact_me-form-light blue?style=flat&logo=email&logoColor=white" alt="Contact-form Badge"/></a>&nbsp;&nbsp;
 </div>
@@ -73,6 +72,9 @@ https://devicon.dev/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymikhit&layout=compact&theme=cobalt&langs_count=20)
 
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=andreymikhit)](https://github.com/andreymikhit?tab=repositories)
+
+---
+<img src="https://komarev.com/ghpvc/?username=andreymikhit&style=flat-square&color=blue" alt="counter"/>
 
 
 <!---
