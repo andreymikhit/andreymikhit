@@ -12,15 +12,12 @@ _Hobbies:_ ⚽ 🏐 🏊‍♂️ 🚴 🏓 🎿 🏒 🚗 📚 :billiard :photo
 
 
 #### Connect with me:
-<div id="badges" align="center">
-<a href="https://github.com/andreymikhit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>&nbsp;&nbsp;
 <a href="https://t.me/andreim177">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&amp;logo=telegram&amp;logoColor=white" alt="Telegramm Badge"></a>&nbsp;&nbsp;
 <a href="mailto:andreymikhit@icloud.com">
 <img src="https://img.shields.io/badge/@_send-email-blue?style=flat&logo=email&logoColor=white" alt="Email Badge"/></a>&nbsp;&nbsp;
 <a href="https://andreymikhit.github.io/contact-me-form.html">
-<img src="https://img.shields.io/badge/contact_me-form-light blue?style=flat&logo=email&logoColor=white" alt="Contact-form Badge"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/contact_form-message-light blue?style=flat&logo=email&logoColor=white" alt="Contact-form Badge"/></a>&nbsp;&nbsp;
 </div>
 
 
