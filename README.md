@@ -19,7 +19,7 @@ _Hobbies:_ ⚽ 🏐 🏊‍♂️ 🚴 🏓 🎿 🏒 🚗 📚 :billiard :photo
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&amp;logo=telegram&amp;logoColor=white" alt="Telegramm Badge"></a>&nbsp;&nbsp;
 <a href="mailto:andreymikhit@icloud.com">
 <img src="https://img.shields.io/badge/@_send-email-blue?style=flat&logo=email&logoColor=white" alt="Email Badge"/></a>&nbsp;&nbsp;
-<a href="https://andreymikhit.github.com/contact-me-form.html">
+<a href="https://andreymikhit.github.io/contact-me-form.html">
 <img src="https://img.shields.io/badge/contact_me-form-light blue?style=flat&logo=email&logoColor=white" alt="Contact-form Badge"/></a>&nbsp;&nbsp;
 </div>
 
