@@ -12,7 +12,7 @@ _Hobbies:_ ⚽ 🏐 🏊‍♂️ 🚴 🏓 🎿 🏒 🚗 📚 :billiard :photo
 
 
 #### Connect with me:
-<div align: center>
+<div id="badges" align="center">
 <a href="https://t.me/andreim177">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&amp;logo=telegram&amp;logoColor=white" alt="Telegramm Badge"></a>&nbsp;&nbsp;
 <a href="mailto:andreymikhit@icloud.com">
